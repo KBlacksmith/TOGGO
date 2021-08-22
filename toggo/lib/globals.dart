@@ -1,0 +1,2 @@
+String usernameLogged = "";
+String passwordLogged = "";
